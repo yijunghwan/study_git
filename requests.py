@@ -1,3 +1,4 @@
+#걍 추가해 본글글
 import requests
 
 def get_tourist_sites():

@@ -1,3 +1,4 @@
+import requests
 import pandas as pd
 import pprint
 import tourist_attraction
